@@ -143,7 +143,7 @@ def jalan(z):
 #### LOGO ANAK GANTENK
 def banner():
     print("""
-%s_______________  ___________ __________ ⓙⓔⓔⓒⓚ
+%s_______________  ___________ __________ 🅢🅨🅐🅗🅡🅘🅛
 ______  /___   |/  /___  __ )___  ____/
 ___ _  / __  /|_/ / __  __  |__  /_
 / /_/ /  _  /  / /  _  /_/ / _  __/
@@ -151,9 +151,9 @@ ___ _  / __  /|_/ / __  __  |__  /_
 
 %s[•]%s---------------------------------------------------%s[•]
 %s |
-%s[•] AUTHOR : %sSYAHRIL%s MR.RISKY,XENZI,ROMZ,YUMASAA,AANG
-[•] GITHUB : https://github.com/SyahrilEkyram
-[•] WHATSAPP : +6281392505882
+%s[•] AUTHOR : %sSYAHRIL Ekyram
+[•] GITHUB : https://github.com/sahrilekiram
+[•] WHATSAPP : +6285271970945
 %s |------------------"""%(B,p,B,p,B,p,B,p,B))
 
 ### BUAT LOGIN TOKEN
